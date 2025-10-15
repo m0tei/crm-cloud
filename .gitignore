@@ -15,8 +15,6 @@ db.sqlite3
 media/
 
 # Environment variables
-.env
-.env.dev
 .env.prod
 
 # IDE and system files
